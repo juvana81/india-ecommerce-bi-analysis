@@ -120,6 +120,6 @@ sqlite3 data/cleaned/ecommerce.db < sql/analysis.sql
 ## About
 
 **Juvana Dsouza** | B.E. AI & Data Science, Fr. CRCE Mumbai
-[LinkedIn](https://linkedin.com/in/juvana) · [GitHub](https://github.com/juvana81) · juvanadsouza81@gmail.com
+· [GitHub](https://github.com/juvana81) · juvanadsouza81@gmail.com
 
 *This project was built as part of a BA portfolio to demonstrate end-to-end analytical thinking — from raw data to boardroom-ready recommendations.*
